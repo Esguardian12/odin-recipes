@@ -11,3 +11,7 @@ Creating a html website about recipes.
 Upon completion of this project, I will have demonstrated competence in:
 * **[Problem Solving]**: [e.g., Managing complex application state with HTML]
 * **[Tooling/Workflow]**: [e.g., Version control with Git and GitHub]
+
+
+# Side-Note
+* ** This is the start of the second project and I'm trying to learn the git commands for the terminal.
